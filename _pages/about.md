@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://en.sharif.edu/'>Sharif University Of Technology</a>. 
-Tehran, Iran.
+subtitle: Sharif University Of Technology, Tehran, Iran.
 
 profile:
   align: right
